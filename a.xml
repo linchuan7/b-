@@ -6,4 +6,6 @@
   <item enabled="true">t=弹幕</item>
   <item enabled="true">t=^第一$</item>
   <item enabled="true">t=[只个][李梨]狗嗨</item>
+  <item enabled="true">t=^(\w*|\s*)$</item>
+  <item enabled="true">t=([1-9]|[一二三四五六七八九十])[刷|(周目)]</item>
 </filters>
