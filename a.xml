@@ -1,9 +1,9 @@
 <filters>
-
   <item enabled="true">t=◎哔哩哔哩正则屏蔽</item>
   <item enabled="true">t=((20)?[012]\d[\.年\-])?(1[012]|0?[1-9])[\.月\-]((3[01]|[12][0-9]|0?[1-9])日?)?</item>
-   <item enabled="true">t=考古</item>
-    <item enabled="true">t=(20)?[012]\d[\.年\-]?(1[012]|0?[1-9])[\.月\-]?(3[01]|[12][0-9]|0?[1-9])日?</item>
-	<item enabled="true">t=弹幕</item>
-
+  <item enabled="true">t=考古</item>
+  <item enabled="true">t=(20)?[012]\d[\.年\-]?(1[012]|0?[1-9])[\.月\-]?(3[01]|[12][0-9]|0?[1-9])日?</item>
+  <item enabled="true">t=弹幕</item>
+  <item enabled="true">t=^第一$</item>
+  <item enabled="true">t=[只个][李梨]狗嗨</item>
 </filters>
